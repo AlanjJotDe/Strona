@@ -1,0 +1,45 @@
+body {
+
+    background-color:rgb(27, 15, 15)    
+}
+
+
+
+*{
+    font-family: 'Stylish', sans-serif;
+}
+
+.main-nav-link{
+    color: rgb(255, 0, 0);
+    font-size: 17px;
+}
+
+.main-navbar{
+    min-height: 8vh;
+    color: black;
+}
+
+.bg-main{
+    color: yellow;
+}
+
+.headerrr{
+    width: 1903px;
+}
+
+.podtekst{
+    font-size: 18px;
+}
+
+.main-font{
+    color: red;
+    font-size: 50px;
+    
+}
+
+.display-7{
+    font-weight: 300;
+    line-height: 1.2;
+   font-size: xx-large;
+   color: rgb(255, 255, 255);
+}
